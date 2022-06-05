@@ -2,6 +2,9 @@
 
 使用pytorch框架构建双向LSTM模型进行情感分类。
 
+使用方法：
+train文件进行训练，predict文件进行预测，config文件进行配置
+
 输入数据示例：
 
 ![image](https://user-images.githubusercontent.com/58450966/171389269-a5fe28a7-6260-4190-a509-d59786549f65.png)
